@@ -1,0 +1,13 @@
+{
+    "domain": [
+        "adf.ly",
+        "freakshare.com"
+    ],
+    "path": [
+        "/advertisements/",
+        "/ads/"
+    ],
+    "misc": [
+        "*.facebook.com/somedir/something.js"
+    ]
+}
