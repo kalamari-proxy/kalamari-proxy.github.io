@@ -8,7 +8,7 @@
         "/ads/"
     ],
     "misc": [
-        "*.facebook.com/somedir/something.js"
+        "facebook.com/somedir/something.js"
     ]
 
 }
