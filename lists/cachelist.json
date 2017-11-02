@@ -1,14 +1,3 @@
 {
- "domain": [
-        "adf.ly",
-        "freakshare.com"
-    ],
-    "path": [
-        "/advertisements/",
-        "/ads/"
-    ],
-    "misc": [
-        "facebook.com/somedir/something.js"
-    ]
-
+    "kalamari-proxy.github.io/tests/cache/a.txt": "kalamari-proxy.github.io/cache/a-cached.txt"
 }

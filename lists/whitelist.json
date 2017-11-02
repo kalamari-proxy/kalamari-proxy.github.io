@@ -1,14 +1,12 @@
 {
- "domain": [
-        "adf.ly",
-        "freakshare.com"
+    "domain": [
+        "example.com"
     ],
     "path": [
-        "/advertisements/",
-        "/ads/"
+	".*/tests/whitelist/whitelist-path/wildcard.*.txt.*"
     ],
     "misc": [
-        "facebook.com/somedir/something.js"
+        "kalam.*-proxy.github.io/tests/whitelist-misc/wildcard.*.txt"
     ]
 
 

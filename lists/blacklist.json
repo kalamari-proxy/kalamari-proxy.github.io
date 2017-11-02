@@ -4,10 +4,11 @@
         "freakshare.com"
     ],
     "path": [
-        "/advertisements/",
-        "/ads/"
+        ".*/advertisements/.*",
+        ".*/ads/.*",
+	".*/tests/blacklist-path/.*"
     ],
     "misc": [
-        "facebook.com/somedir/something.js"
+        "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt"
     ]
 }
