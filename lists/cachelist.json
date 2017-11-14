@@ -1,5 +1,5 @@
 {
     "kalamari-proxy.github.io/tests/cache/a.txt": "kalamari-proxy.github.io/cache/a-cached.txt",
     "example.com/cached": "example.com/cached2",
-    "example.com/cached3": "localhost:8080/kitty.jpg"
+    "example.com/cached3": "http://localhost:8080/kitty.jpg"
 }
