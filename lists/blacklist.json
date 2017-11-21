@@ -1,7 +1,8 @@
 {
     "domain": [
         "adf.ly",
-        "freakshare.com"
+        "freakshare.com",
+	"s.yimg.com"
     ],
     "path": [
         ".*/advertisements/.*",
