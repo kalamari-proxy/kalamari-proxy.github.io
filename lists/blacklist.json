@@ -6,7 +6,18 @@
 	"brightcove.com",
 	"2mdn.net",
 	"googlesyndication.com",
-	"moatads.com"
+	"ade.googlesyndication.com",
+	"moatads.com",
+	"px.moatads.com",
+	"krxd.net",
+	"cdn.krdx.net",
+	"beacon.krdx.net",
+	"doubleclick.net",
+	"ad.doubleclick.net",
+	"agkn.com",
+	"et.nytimes.com",
+	"adnxs.com",
+	"secure.adnxs.com"
     ],
     "path": [
         ".*/advertisements/.*",
@@ -17,6 +28,7 @@
         "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt",
         "[^/]+\\.2mdn.net/.*",
         "[^/]+\\.googlesyndication.com/.*",
-        "[^/]+\\.moatads.com/.*"
+        "[^/]+\\.moatads.com/.*",
+	"[^/]+\\.agkn.com/.*"
     ]
 }
