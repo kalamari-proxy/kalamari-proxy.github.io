@@ -10,7 +10,7 @@
 	"bat.bing.com",
 	"brightcove.com",
 	"chartbeat.com",
-	"ping.chartbeat.com"
+	"ping.chartbeat.com",
 	"doubleclick.net",
 	"ad.doubleclick.net",
         "freakshare.com",
@@ -35,7 +35,7 @@
 	"rva.outbrain.com",
 	"revee.outbrain.com",
 	"scorecardresearch.com",
-	"b.scorecardresearch.com",
+	"b.scorecardresearch.com"
     ],
     "path": [
         ".*/advertisements/.*",
