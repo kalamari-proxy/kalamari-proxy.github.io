@@ -7,6 +7,7 @@
 	"2mdn.net",
 	"googlesyndication.com",
 	"ade.googlesyndication.com",
+	"tpc.googlesyndication.com",
 	"moatads.com",
 	"px.moatads.com",
 	"krxd.net",
@@ -17,11 +18,28 @@
 	"agkn.com",
 	"et.nytimes.com",
 	"adnxs.com",
-	"secure.adnxs.com"
+	"secure.adnxs.com",
+	"serving-sys.com",
+	"widgets.outbrain.com",
+	"images.outbrain.com",
+	"amplify.outbrain.com",
+	"tr.outbrain.com",
+	"amplifypixel.outbrain.com",
+	"odb.outbrain.com",
+	"log.outbrain.com",
+	"rva.outbrain.com",
+	"revee.outbrain.com",
+	"scorecardresearch.com",
+	"b.scorecardresearch.com",
+	"amazon-adsystem.com",
+	"aax.amazon-adsystem.com",
+	"chartbeat.com",
+	"ping.chartbeat.com"
     ],
     "path": [
         ".*/advertisements/.*",
         ".*/ads/.*",
+	".*/adscores/.*",
 	".*/tests/blacklist-path/.*"
     ],
     "misc": [
