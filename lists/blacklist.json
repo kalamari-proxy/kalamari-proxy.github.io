@@ -3,8 +3,10 @@
         "adf.ly",
         "freakshare.com",
 	"adsense.googleblog.com",
-	"brightcove.com"
-	
+	"brightcove.com",
+	"2mdn.net",
+	"googlesyndication.com",
+	"moatads.com"
     ],
     "path": [
         ".*/advertisements/.*",
@@ -12,6 +14,9 @@
 	".*/tests/blacklist-path/.*"
     ],
     "misc": [
-        "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt"
+        "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt",
+        "[^/]+\\.2mdn.net/.*",
+        "[^/]+\\.googlesyndication.com/.*",
+        "[^/]+\\.moatads.com/.*"
     ]
 }
