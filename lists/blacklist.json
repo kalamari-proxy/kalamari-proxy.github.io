@@ -74,15 +74,15 @@
 	".*-amazon-ads/.*",
 	".*-bg_ads\\..*",
 	".*/ad-(audit|background|banner|bckg|bottom|cdn|choices|engine|exchange|feedback|flashgame|format|frame|hcm|header|hug|identifier|ifr|iframe|image|ina)\\..*"
-	".*/?adv_partner/.*"
-	".*/?advideo/.*"
-	".*/_global/ads/.*"
-	".*/ad-300x250.*"
-	".*/ad-300x254.*"
-	".*/ad-300x300.*"    
-	".*/ad-350x350-.*"
-	".*/ad-400.*"
-	".*/ad-410x300.*"    
+	".*/?adv_partner/.*",
+	".*/?advideo/.*",
+	".*/_global/ads/.*",
+	".*/ad-300x250.*",
+	".*/ad-300x254.*",
+	".*/ad-300x300.*",   
+	".*/ad-350x350-.*",
+	".*/ad-400.*",
+	".*/ad-410x300.*",    
     ],
     "misc": [
         "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt",
