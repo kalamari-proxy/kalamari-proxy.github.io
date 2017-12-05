@@ -108,7 +108,16 @@
 	".*/ad-fix-.*", 
 	".*/ad-half_.*", 
 	".*/ad-home-.*", 
-	".*/ad-(modules|navi|nytimes|offer1|openx|overlay|page|plate|pulse|record|right2|refresh|server|skyscraper|sovrn|specs|sprite|srv|strip|styles|tag2)\\..*"
+	".*/ad-(modules|navi|nytimes|offer1|openx|overlay|page|plate|pulse|record|right2|refresh|server|skyscraper|sovrn|specs|sprite|srv|strip|styles|tag2)\\..*",
+	".*/ad/google/.*",
+	".*/ad/google_.*",
+	".*/ad/homepage?.*",
+	".*/ad/html/.*",
+	".*/ad/(iframe|iframe/|image/|images/|img/|index\\.|index/|index_|inline?|integral-|inventory/|js/pushdown\\.|jsonp/).*",
+	".*/ad/(leaderboard\\.|listing-|live|load\\.|load_|loaders/|loading\\.|log/|login-|logo/).*",
+	".*/ad/(material/|middle\\.|mpu/|multfusion\\.|network/|omakasa\\.|ongoing/).*",
+	".*/ad/(player|pong?|popup\\.|premium/|preview/|quigo/).*",
+	".*/ad/(random_|realclick\\.|realclick/|rectangle\\.|reklamy\\.|request?|right2\\.|rotate?).*"
 	   ],
     "misc": [
         "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt",
