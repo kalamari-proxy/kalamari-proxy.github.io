@@ -82,7 +82,23 @@
 	".*/ad-300x300.*",   
 	".*/ad-350x350-.*",
 	".*/ad-400.*",
-	".*/ad-410x300.*"    
+	".*/ad-410x300.*"
+	".*/ad-468-.*",
+	".*/ad-600-.*",
+	".*/AD-970x90.*",
+	".*/ad-amz.*",
+	".*/ad-audit.*",
+	".*/ad-background.*",
+	".*/ad-banner-.*",
+	".*/ad-bckg.*",
+	".*/ad-bin/.*",
+	".*/ad-bottom.*",
+	".*/ad-box-.*",
+	".*/ad-boxes-.*",
+	".*/ad-bucket.*",
+	".*/ad-builder.*",
+	".*/ad-button1.*",
+	".*/ad-callback.*"    
     ],
     "misc": [
         "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt",
