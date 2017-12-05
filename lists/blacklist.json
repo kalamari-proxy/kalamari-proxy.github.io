@@ -82,7 +82,7 @@
 	".*/ad-300x300.*",   
 	".*/ad-350x350-.*",
 	".*/ad-400.*",
-	".*/ad-410x300.*",    
+	".*/ad-410x300.*"    
     ],
     "misc": [
         "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt",
