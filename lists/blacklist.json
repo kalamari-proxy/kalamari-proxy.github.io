@@ -12,6 +12,7 @@
 	"casalemedia.com",
 	"chartbeat.com",
 	"criteo.com",
+	"criteo.net",
 	"demdex.net",
 	"doubleclick.net",
 	"ads.ebay.com",
@@ -23,11 +24,13 @@
 	"google-analytics.com",
 	"adsense.googleblog.com",
 	"googlesyndication.com",
+	"googletagmanager.com",
 	"googletagservices.com",
 	"imrworldwide.com",
 	"insightexpressai.com",
 	"krxd.net",
 	"moatads.com",
+	"a1.nyt.com",
 	"et.nytimes.com",
 	"serving-sys.com",
 	"outbrain.com",
@@ -45,15 +48,19 @@
 	"airpush.com",
 	"amobee.com",
 	"appads.com",
+	"bluekai.com",
 	"buxx.mobi",
 	"bea4.cnn.com",
 	"metrics.cnn.com",
 	"dmg-mobile.com",
+	"exelate.com",
+	"exelator.com",
 	"gigya.com",
 	"greystripe.com",
 	"inmobi.com",
 	"kuad.kusogi.com",
 	"liadm.com",
+	"ads.linkedin.com",
 	"m6r.eu",
 	"mad-adz.com",
 	"media.net",
@@ -68,6 +75,7 @@
         "mysearch-online.com",
 	"pubmatic.com",
         "rubiconproject.com",
+	"rlcdn.com",
 	"sascdn.com",
 	"smaato.net",
 	"summerhamster.com",
@@ -148,7 +156,8 @@
 	".*/ad/(material/|middle\\.|mpu/|multfusion\\.|network/|omakasa\\.|ongoing/).*",
 	".*/ad/(player|pong?|popup\\.|premium/|preview/|quigo/).*",
 	".*/ad/(random_|realclick\\.|realclick/|rectangle\\.|reklamy\\.|request?|right2\\.|rotate?).*",
-	".*/pagead/.*"
+	".*/pagead/.*",
+	".*show_ads.js.*"
 	   ],
     "misc": [
         "kalamari-proxy.github.io/tests/blacklist-misc/wildcard.*.txt",
@@ -158,6 +167,7 @@
 	"[^/]+\\.agkn.com/.*",
 	".*\\.youtube\\.com/get_midroll_.*",
 	".*t.co/.*adsct.*",
-	"(pixel|tag|tracker)\\\\.[a-zA-Z0-9-]+\\\\..*/"
+	"(pixel|tag|track|tracker|ads|ad)\\\\.[a-zA-Z0-9-]+\\\\..*/",
+	".*facebook\\\\.com/tr/.*"
     ]
 }
