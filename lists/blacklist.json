@@ -84,7 +84,7 @@
     ],
     "path": [
         ".*/advertisements/.*",
-        ".*/ads/.*",
+        ".*/ad(s|[0-9]{1,2})?/.*",
 	".*/adscores/.*",
 	".*/tests/blacklist-path/.*",
 	".*-advertising_.*",
